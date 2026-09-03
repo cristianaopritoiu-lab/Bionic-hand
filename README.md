@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1355877003.svg)](https://doi.org/10.5281/zenodo.22285699)
 # 3-Digit Bionic Hand (Open-Source CAD Project)
 
 A 3-digit bionic hand model (thumb and two fingers) designed in Autodesk Inventor. The model features independent rotational joints for each digit, internal wiring/tendon channels, and a modular claw-grip configuration optimized for 3D printing and DIY prosthetics or robotics.
